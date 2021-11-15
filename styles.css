@@ -1,0 +1,16 @@
+body{
+    background-color: #0ff;
+}
+.header-tag, .content-tag{
+    display: inline-block;
+    width: 45%;
+}
+header h2{
+    text-align: right;
+}
+.header-tag h2{
+    margin-top: -40px;
+}
+ul{
+    list-style: disc;
+}
